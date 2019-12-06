@@ -3,10 +3,6 @@
 <head>
 	<title>KIOS MASA DEPAN</title>
 	<link rel="stylesheet" type="text/css" href="assets/css/bootstrap.css">
-	<link rel="stylesheet" type="text/css" href="assets/js/jquery-ui/jquery-ui.css">
-	<script type="text/javascript" src="assets/js/jquery.js"></script>
-	<script type="text/javascript" src="assets/js/bootstrap.js"></script>
-	<script type="text/javascript" src="assets/js/jquery-ui/jquery-ui.js"></script>
 	<?php include 'config.php'; ?>
 	<style type="text/css">
 	.kotak{	
