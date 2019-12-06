@@ -7,7 +7,7 @@
 	<script type="text/javascript" src="assets/js/jquery.js"></script>
 	<script type="text/javascript" src="assets/js/bootstrap.js"></script>
 	<script type="text/javascript" src="assets/js/jquery-ui/jquery-ui.js"></script>
-	<?php include 'admin/config.php'; ?>
+	<?php include 'config.php'; ?>
 	<style type="text/css">
 	.kotak{	
 		margin-top: 150px;
